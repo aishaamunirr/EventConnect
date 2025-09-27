@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Mama Jays Catering Service ",
+    "category": "catering",
+    "location": "Ungwan Dosa, Kaduna",
+    "price": "₦250,00 - ₦450,00 (50 guests)",
+    "image": "images/mamajays.jpg",
+    "contact": "mailto:funfoods@example.com"
+  },
+  {
+    "name": "Sweet Moments Catering",
+    "category": "catering",
+    "location": "Ungwan Rimi, Kaduna",
+    "price": "₦600,000 - ₦800,00 (50 guests)",
+    "image": "images/sweetmoments.jpg",
+    "contact": "mailto:sweetmoments@example.com"
+  },
+  {
+    "name": "Mama Iyawo",
+    "category": "catering",
+    "location": "Sabo, Kaudna",
+    "price": "₦100,000 - ₦250,000 (50 guets)",
+    "image": "images/mamaiyawo.jpg",
+    "contact": "mailto:royalfeast@example.com"
+  },
+  {
+    "name": "Delicious Bites Catering",
+    "category": "catering",
+    "location": "Barnawa, Kaduna",
+    "price": "₦280,000 - ₦380,00 (50 guests)",
+    "image": "images/deliciousbites.jpg",
+    "contact": "mailto:deliciousbites@example.com"
+  },
+  {
+    "name": "Happy Tummies Foods",
+    "category": "catering",
+    "location": "Ungwan Rimi, Kaduna",
+    "price": "₦100,00 - ₦210,000",
+    "image": "images/happytummies.jpg",
+    "contact": "mailto:happytummies@example.com"
+  },
+  {
+    "name": "Tasteful Events Catering",
+    "category": "catering",
+    "location": "Kakuri, Kaduna",
+    "price": "₦260,00 - $290,000",
+    "image": "images/tastefulevents.jpg",
+    "contact": "mailto:tastefulevents@example.com"
+  },
+  
+  {
+    "name": "PhotoMagic Studios",
+    "category": "photography",
+    "location": "Abuja",
+    "price": "$300 - $1500",
+    "image": "images/photomagic.jpg",
+    "contact": "mailto:photomagic@example.com"
+  },
+  {
+    "name": "Lens & Light Photography",
+    "category": "photography",
+    "location": "Lagos",
+    "price": "$350 - $1600",
+    "image": "images/lensandlight.jpg",
+    "contact": "mailto:lensandlight@example.com"
+  },
+  {
+    "name": "ShutterPro",
+    "category": "photography",
+    "location": "Port Harcourt",
+    "price": "$400 - $1800",
+    "image": "images/shutterpro.jpeg",
+    "contact": "mailto:shutterpro@example.com"
+  },
+  {
+    "name": "SnapPerfect Photography",
+    "category": "photography",
+    "location": "Lagos",
+    "price": "$320 - $1500",
+    "image": "images/snapperfect.jpg",
+    "contact": "mailto:snapperfect@example.com"
+  },
+  {
+    "name": "Focus Point Studios",
+    "category": "photography",
+    "location": "Abuja",
+    "price": "$360 - $1700",
+    "image": "images/focuspoint.webp",
+    "contact": "mailto:focuspoint@example.com"
+  },
+  {
+    "name": "Golden Frame Photography",
+    "category": "photography",
+    "location": "Lagos",
+    "price": "$400 - $2000",
+    "image": "images/goldenframe.webp",
+    "contact": "mailto:goldenframe@example.com"
+  },
+  
+  {
+    "name": "Elegant Decor",
+    "category": "decor",
+    "location": "Lagos",
+    "price": "$200 - $1000",
+    "image": "images/about1.jpeg",
+    "contact": "mailto:elegantdecor@example.com"
+  },
+  {
+    "name": "Event Glam Decor",
+    "category": "decor",
+    "location": "Abuja",
+    "price": "$250 - $1200",
+    "image": "images/eventglamdecor.jpg",
+    "contact": "mailto:eventglam@example.com"
+  },
+  {
+    "name": "Dreamy Spaces",
+    "category": "decor",
+    "location": "Port Harcourt",
+    "price": "$220 - $1100",
+    "image": "images/dreamyspaces.jpeg",
+    "contact": "mailto:dreamyspaces@example.com"
+  },
+  {
+    "name": "Luxury Decor Co.",
+    "category": "decor",
+    "location": "Lagos",
+    "price": "$300 - $1500",
+    "image": "images/luxurydecorco.jpg",
+    "contact": "mailto:luxurydecor@example.com"
+  },
+  {
+    "name": "Blissful Events Decor",
+    "category": "decor",
+    "location": "Abuja",
+    "price": "$210 - $1300",
+    "image": "images/blissfulevents.webp",
+    "contact": "mailto:blissfuldecor@example.com"
+  },
+  {
+    "name": "Majestic Touch",
+    "category": "decor",
+    "location": "Lagos",
+    "price": "$250 - $1400",
+    "image": "images/majestictouch.jpg",
+    "contact": "mailto:majestictouch@example.com"
+  },
+  
+  {
+    "name": "Party Beats DJ",
+    "category": "entertainment",
+    "location": "Lagos",
+    "price": "$200 - $1000",
+    "image": "images/partybeats.jpg",
+    "contact": "mailto:partybeats@example.com"
+  },
+  {
+    "name": "Groove Masters",
+    "category": "entertainment",
+    "location": "Abuja",
+    "price": "$250 - $1200",
+    "image": "images/groovemasters.jpg",
+    "contact": "mailto:groovemasters@example.com"
+  },
+  {
+    "name": "DJ Vibes",
+    "category": "entertainment",
+    "location": "Port Harcourt",
+    "price": "$220 - $1100",
+    "image": "images/djvibes.jpg",
+    "contact": "mailto:djvibes@example.com"
+  },
+  {
+    "name": "Fun Times Co",
+    "category": "entertainment",
+    "location": "Lagos",
+    "price": "$300 - $1500",
+    "image": "images/funtimes.webp",
+    "contact": "mailto:liveband@example.com"
+  },
+  {
+    "name": "Mc Vibes",
+    "category": "entertainment",
+    "location": "Abuja",
+    "price": "$210 - $1300",
+    "image": "images/mcvibes.jpg",
+    "contact": "mailto:funentertainment@example.com"
+  },
+  {
+    "name": "Trad Dancers",
+    "category": "entertainment",
+    "location": "Lagos",
+    "price": "$250 - $1400",
+    "image": "images/traddancers.jpg",
+    "contact": "mailto:eventstars@example.com"
+  },
+  
+  {
+    "name": "Glamour Makeup Studio",
+    "category": "makeup",
+    "location": "Lagos",
+    "price": "$100 - $500",
+    "image": "images/glamourmakeup.webp",
+    "contact": "mailto:glamourmakeup@example.com"
+  },
+  {
+    "name": "Beauty Touch",
+    "category": "makeup",
+    "location": "Abuja",
+    "price": "$120 - $600",
+    "image": "images/beautytouch.jpg",
+    "contact": "mailto:beautytouch@example.com"
+  },
+  {
+    "name": "Makeover Magic",
+    "category": "makeup",
+    "location": "Port Harcourt",
+    "price": "$90 - $550",
+    "image": "images/makeovermagic.webp",
+    "contact": "mailto:makeovermagic@example.com"
+  },
+  {
+    "name": "Elegant Faces",
+    "category": "makeup",
+    "location": "Lagos",
+    "price": "$100 - $500",
+    "image": "images/elegantfaces.jpg",
+    "contact": "mailto:elegantfaces@example.com"
+  },
+  {
+    "name": "Beauty Bliss",
+    "category": "makeup",
+    "location": "Abuja",
+    "price": "$110 - $600",
+    "image": "images/beautybliss.jpg",
+    "contact": "mailto:beautybliss@example.com"
+  },
+  {
+    "name": "Flawless Artistry",
+    "category": "makeup",
+    "location": "Lagos",
+    "price": "$95 - $550",
+    "image": "images/flawlessartistry.jpg",
+    "contact": "mailto:flawlessartistry@example.com"
+  }
+]

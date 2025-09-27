@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vendor Sign Up</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+      <h2 class="logo-name">EventConnect</h2>
+      <ul class="nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="index.html">About</a></li>
+        <li><a href="index.html">Learn More</a></li>
+      </ul>
+      <a href="logIn.html"><button class="get-started-btn">Log In</button></a>
+      <div class="hamburger" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </header>
+    <nav class="mobile-menu" id="mobileMenu">
+      <a href="home.html">Home</a>
+      <a href="#about">About</a>
+      <a href="#learnMore">Learn More</a>
+      <a href="logIn.html" ><button class="mobile-button">Log In</button></a>
+    </nav>
+    
+    <main class="auth-page">
+      <div class="auth-container">
+        <h2>Create your Vendor Account</h2>
+        <p>Join EventConnect to showcase your services and connect with clients!</p>
+
+       
+        <form id="vendorSignupForm" class="auth-form">
+          <label for="fullname">Full Name</label>
+          <input type="text" id="fullname" name="fullname" placeholder="Your full name" required>
+
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="Your email" required>
+
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" placeholder="Create a password" required>
+
+          <label for="businessName">Business Name</label>
+          <input type="text" id="businessName" name="business" placeholder="Your business name" required>
+          
+          <select id="businessType" required>
+            <option value="">Select Business Type</option>
+            <option value="catering">Catering</option>
+            <option value="photography">Photography</option>
+            <option value="venue">Makeup</option>
+            <option value="music">Entertainment</option>
+            <option value="decorations">Decorations</option>
+          </select>
+
+          <button type="submit" class="get-started-btn2">Sign Up</button>
+        </form>
+
+        <p class="auth-footer">
+          Already have an account? <a href="login.html">Log In</a>
+        </p>
+            <div style="background: #fff3cd; border: 1px solid #ffeaa7; padding: 10px; border-radius: 5px; text-align: center; max-width: 480px; margin: 30px auto;">
+              <strong>⚠️ Learning Project:</strong> Use test credentials only. Not secure for real accounts.
+            </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-about">
+          <h3>EventConnect</h3>
+          <p>
+            Connecting you to trusted event vendors in your area. Find vendors,
+            read reviews, and plan your event with ease!
+          </p>
+        </div>
+
+        <div class="footer-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">About</a></li>
+            <li><a href="index.html">Learn More</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-contact">
+          <h4>Contact Us</h4>
+          <p>Email: support@eventconnect.com</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2025 EventConnect. All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="signup.js"></script>
+</body>
+</html>

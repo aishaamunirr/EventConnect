@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Explore Vendors</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h2 class="logo-name">EventConnect</h2>
+      <ul class="nav">
+        
+        <li><a href="clientdashboard.html">Explore Vendors</a></li>
+        <li><a href="clientbookings.html">My Bookings</a></li>
+        <li><a href="clientMessages.html">Messages</a></li>
+      </ul>
+      <a href="index.html"><button class="get-started-btn">Log Out</button></a>
+      <div class="hamburger" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </header>
+    <nav class="mobile-menu" id="mobileMenu">
+      <a href="clientdashboard.html">Explore Vendors</a>
+      <a href="clientbookings.html">My Bookings</a>
+      <a href="clientMessages.html">Messages</a>
+      <a href="index.html"><button class="mobile-button">Log Out</button></a>
+    </nav>
+
+    <main style="min-height: 100vh" class="get-started-main">
+      <h2 class="title-vp">Explore Different Vendors for your Event</h2>
+      <section class="planner-dashboard">
+        <select id="categorySelect" class="vendor-select">
+          <option value="" disabled selected>Choose a category</option>
+          <option value="catering">Catering</option>
+          <option value="photography">Photography</option>
+          <option value="makeup">Make Up</option>
+          <option value="decor">Decor</option>
+          <option value="entertainment">Entertainment</option>
+        </select>
+
+        <div id="vendorList" class="vendor-cards"></div>
+      </section>
+
+      <div id="contactModal" class="modal">
+        <div class="modal-content">
+          <span class="close-modal">&times;</span>
+          <h3>Contact <span id="contactVendorName"></span></h3>
+          <form id="contactForm" class="contactForm">
+            <input type="text" placeholder="Your Name" required />
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit" class="get-started-btn2">Send</button>
+          </form>
+        </div>
+      </div>
+
+      <div id="bookingModal" class="modal">
+        <div class="modal-content">
+          <span class="close-modal">&times;</span>
+          <h3>Book <span id="bookingVendorName"></span></h3>
+          <form id="bookingForm" class="bookingForm">
+            <input type="text" placeholder="Your Name" required />
+            <input type="text" placeholder="Event Type" required />
+            <input type="date" required />
+            <input type="text" placeholder="Event Location" required />
+            <button type="submit" class="get-started-btn2">
+              Confirm Booking
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <div id="profileModal" class="modal">
+        <div class="modal-content">
+          <span class="close-modal">&times;</span>
+          <h3><span id="profileVendorName"></span> - Profile</h3>
+
+          <h4>Previous Works</h4>
+          <div class="profile-gallery">
+            <img src="images/placeholder.jpg" alt="Work 1" />
+            <img src="images/placeholder.jpg" alt="Work 2" />
+            <img src="images/placeholder.jpg" alt="Work 3" />
+          </div>
+
+          <h4>Reviews</h4>
+          <ul class="reviews">
+            <li>⭐⭐⭐⭐⭐ Excellent service, highly recommend!</li>
+            <li>⭐⭐⭐⭐ Good experience, very professional.</li>
+            <li>⭐⭐⭐⭐⭐ Made our event memorable!</li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-about">
+          <h3>EventConnect</h3>
+          <p>
+            Connecting you to trusted event vendors in your area. Find vendors,
+            read reviews, and plan your event with ease!
+          </p>
+        </div>
+
+        <div class="footer-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">About</a></li>
+            <li><a href="index.html">Learn More</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-contact">
+          <h4>Contact Us</h4>
+          <p>Email: support@eventconnect.com</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2025 EventConnect. All Rights Reserved.</p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>

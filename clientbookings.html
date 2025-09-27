@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Bookings</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h2 class="logo-name">EventConnect</h2>
+      <ul class="nav">
+        <li><a href="clientdashboard.html">Explore Vendors</a></li>
+        <li><a href="clientbookings.html">My Bookings</a></li>
+        <li><a href="clientMessages.html">Messages</a></li>
+      </ul>
+      <a href="index.html"><button class="get-started-btn">Log Out</button></a>
+
+      <div class="hamburger" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </header>
+    <nav class="mobile-menu" id="mobileMenu">
+      <a href="clientdashboard.html">Explore Vendors</a>
+      <a href="clientbookings.html">My Bookings</a>
+      <a href="clientMessages.html">Messages</a>
+      <a href="index.html"><button class="mobile-button">Log Out</button></a>
+    </nav>
+
+    <main style="min-height: 100vh" class="get-started-main">
+      <main style="min-height: 100vh" class="get-started-main">
+        <h2 class="title-vp">My Bookings</h2>
+        <div id="bookingsContainer">
+          <p>No bookings yet.</p>
+        </div>
+      </main>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-about">
+          <h3>EventConnect</h3>
+          <p>
+            Connecting you to trusted event vendors in your area. Find vendors,
+            read reviews, and plan your event with ease!
+          </p>
+        </div>
+
+        <div class="footer-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">About</a></li>
+            <li><a href="index.html">Learn More</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-contact">
+          <h4>Contact Us</h4>
+          <p>Email: support@eventconnect.com</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2025 EventConnect. All Rights Reserved.</p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+
+  </body>
+</html>
