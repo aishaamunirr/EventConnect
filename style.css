@@ -680,3 +680,9 @@ a{
     width: 50%;
   }
 }
+
+@media (min-width: 769px) and (max-width:1024px ){
+    .nav {
+        font-size: 15px;
+    }
+}
