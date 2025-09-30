@@ -3,244 +3,244 @@
     "name": "Mama Jays Catering Service ",
     "category": "catering",
     "location": "Ungwan Dosa, Kaduna",
-    "price": "₦250,00 - ₦450,00 (50 guests)",
+    "price": "₦250,000 - ₦450,000 (50 guests)",
     "image": "images/mamajays.jpg",
-    "contact": "mailto:funfoods@example.com"
+    "contact": "funfoods@example.com"
   },
   {
     "name": "Sweet Moments Catering",
     "category": "catering",
     "location": "Ungwan Rimi, Kaduna",
-    "price": "₦600,000 - ₦800,00 (50 guests)",
+    "price": "₦600,000 - ₦800,000 (50 guests)",
     "image": "images/sweetmoments.jpg",
-    "contact": "mailto:sweetmoments@example.com"
+    "contact": "sweetmoments@example.com"
   },
   {
     "name": "Mama Iyawo",
     "category": "catering",
-    "location": "Sabo, Kaudna",
+    "location": "Sabo, Kaduna",
     "price": "₦100,000 - ₦250,000 (50 guets)",
     "image": "images/mamaiyawo.jpg",
-    "contact": "mailto:royalfeast@example.com"
+    "contact": "royalfeast@example.com"
   },
   {
     "name": "Delicious Bites Catering",
     "category": "catering",
     "location": "Barnawa, Kaduna",
-    "price": "₦280,000 - ₦380,00 (50 guests)",
+    "price": "₦280,000 - ₦380,000 (50 guests)",
     "image": "images/deliciousbites.jpg",
-    "contact": "mailto:deliciousbites@example.com"
+    "contact": "deliciousbites@example.com"
   },
   {
     "name": "Happy Tummies Foods",
     "category": "catering",
     "location": "Ungwan Rimi, Kaduna",
-    "price": "₦100,00 - ₦210,000",
+    "price": "₦100,000 - ₦210,000 (50 guests)",
     "image": "images/happytummies.jpg",
-    "contact": "mailto:happytummies@example.com"
+    "contact": "happytummies@example.com"
   },
   {
     "name": "Tasteful Events Catering",
     "category": "catering",
     "location": "Kakuri, Kaduna",
-    "price": "₦260,00 - $290,000",
+    "price": "₦260,000 - $290,000 (50 guests)",
     "image": "images/tastefulevents.jpg",
-    "contact": "mailto:tastefulevents@example.com"
+    "contact": "tastefulevents@example.com"
   },
   
   {
     "name": "PhotoMagic Studios",
     "category": "photography",
-    "location": "Abuja",
-    "price": "$300 - $1500",
+    "location": "Ungwan Dosa, Kaduna",
+    "price": "₦100,000 - ₦150,000 (per event)",
     "image": "images/photomagic.jpg",
-    "contact": "mailto:photomagic@example.com"
+    "contact": "photomagic@example.com"
   },
   {
     "name": "Lens & Light Photography",
     "category": "photography",
-    "location": "Lagos",
-    "price": "$350 - $1600",
+    "location": "Abakpa, Kaduna",
+    "price": "₦70,000 - ₦100,000 (per event)",
     "image": "images/lensandlight.jpg",
-    "contact": "mailto:lensandlight@example.com"
+    "contact": "lensandlight@example.com"
   },
   {
     "name": "ShutterPro",
     "category": "photography",
-    "location": "Port Harcourt",
-    "price": "$400 - $1800",
+    "location": "Sabo, Kaduna",
+    "price": "₦180,000 - ₦250,000 (per event)",
     "image": "images/shutterpro.jpeg",
-    "contact": "mailto:shutterpro@example.com"
+    "contact": "shutterpro@example.com"
   },
   {
     "name": "SnapPerfect Photography",
     "category": "photography",
-    "location": "Lagos",
-    "price": "$320 - $1500",
+    "location": "Malali, Kaduna",
+    "price": "₦120,000 - ₦150,000 (per event)",
     "image": "images/snapperfect.jpg",
-    "contact": "mailto:snapperfect@example.com"
+    "contact": "snapperfect@example.com"
   },
   {
     "name": "Focus Point Studios",
     "category": "photography",
-    "location": "Abuja",
-    "price": "$360 - $1700",
+    "location": "Millenium City, Kaduna",
+    "price": "₦300,000 - ₦450,000 (per event)",
     "image": "images/focuspoint.webp",
-    "contact": "mailto:focuspoint@example.com"
+    "contact": "focuspoint@example.com"
   },
   {
     "name": "Golden Frame Photography",
     "category": "photography",
-    "location": "Lagos",
-    "price": "$400 - $2000",
+    "location": "Ungwan Kaji, Kaduna",
+    "price": "₦100,000 - ₦170,000 (per event)",
     "image": "images/goldenframe.webp",
-    "contact": "mailto:goldenframe@example.com"
+    "contact": "goldenframe@example.com"
   },
   
   {
     "name": "Elegant Decor",
     "category": "decor",
-    "location": "Lagos",
-    "price": "$200 - $1000",
+    "location": "Ungwan Rimi, Kaduna",
+    "price": "₦800,000 - ₦1,000,000 (per event)",
     "image": "images/about1.jpeg",
-    "contact": "mailto:elegantdecor@example.com"
+    "contact": "elegantdecor@example.com"
   },
   {
     "name": "Event Glam Decor",
     "category": "decor",
-    "location": "Abuja",
-    "price": "$250 - $1200",
+    "location": "Malali, Kaduna",
+    "price": "₦700,000 - ₦900,000 (per event)",
     "image": "images/eventglamdecor.jpg",
-    "contact": "mailto:eventglam@example.com"
+    "contact": "eventglam@example.com"
   },
   {
     "name": "Dreamy Spaces",
     "category": "decor",
-    "location": "Port Harcourt",
-    "price": "$220 - $1100",
+    "location": "Sabo, Kaduna",
+    "price": "₦600,000 - ₦950,000 (per event)",
     "image": "images/dreamyspaces.jpeg",
-    "contact": "mailto:dreamyspaces@example.com"
+    "contact": "dreamyspaces@example.com"
   },
   {
     "name": "Luxury Decor Co.",
     "category": "decor",
-    "location": "Lagos",
-    "price": "$300 - $1500",
+    "location": "Ungwan Rimi, Kaduna",
+    "price": "₦700,000 - ₦850,000 (per event)",
     "image": "images/luxurydecorco.jpg",
-    "contact": "mailto:luxurydecor@example.com"
+    "contact": "luxurydecor@example.com"
   },
   {
     "name": "Blissful Events Decor",
     "category": "decor",
-    "location": "Abuja",
-    "price": "$210 - $1300",
+    "location": "Malali, Kaduna",
+    "price": "₦1,000,000 - ₦1,550,000 (per event)",
     "image": "images/blissfulevents.webp",
-    "contact": "mailto:blissfuldecor@example.com"
+    "contact": "blissfuldecor@example.com"
   },
   {
     "name": "Majestic Touch",
     "category": "decor",
-    "location": "Lagos",
-    "price": "$250 - $1400",
+    "location": "Mando, Kaduna",
+    "price": "₦180,000 - ₦280,000 (per event)",
     "image": "images/majestictouch.jpg",
-    "contact": "mailto:majestictouch@example.com"
+    "contact": "majestictouch@example.com"
   },
   
   {
     "name": "Party Beats DJ",
     "category": "entertainment",
-    "location": "Lagos",
-    "price": "$200 - $1000",
+    "location": "Barnawa, Kaduna",
+    "price": "₦200,000 - ₦250,000 (per event)",
     "image": "images/partybeats.jpg",
     "contact": "mailto:partybeats@example.com"
   },
   {
     "name": "Groove Masters",
     "category": "entertainment",
-    "location": "Abuja",
-    "price": "$250 - $1200",
+    "location": "Kakuri, Kaduna",
+    "price": "₦100,000 - ₦150,000 (per event)",
     "image": "images/groovemasters.jpg",
     "contact": "mailto:groovemasters@example.com"
   },
   {
     "name": "DJ Vibes",
     "category": "entertainment",
-    "location": "Port Harcourt",
-    "price": "$220 - $1100",
+    "location": "Malali, Kaduna",
+    "price": "₦200,000 - ₦300,000 (per event)",
     "image": "images/djvibes.jpg",
-    "contact": "mailto:djvibes@example.com"
+    "contact": "djvibes@example.com"
   },
   {
     "name": "Fun Times Co",
     "category": "entertainment",
-    "location": "Lagos",
-    "price": "$300 - $1500",
+    "location": "Ungwan Kaji, Kaduna",
+    "price": "₦100,000 - ₦150,000 (per event)",
     "image": "images/funtimes.webp",
-    "contact": "mailto:liveband@example.com"
+    "contact": "liveband@example.com"
   },
   {
     "name": "Mc Vibes",
     "category": "entertainment",
-    "location": "Abuja",
-    "price": "$210 - $1300",
+    "location": "Ungwan Shanu, Kaduna",
+    "price": "₦200,000 - ₦250,000 (per event)",
     "image": "images/mcvibes.jpg",
-    "contact": "mailto:funentertainment@example.com"
+    "contact": "funentertainment@example.com"
   },
   {
     "name": "Trad Dancers",
     "category": "entertainment",
-    "location": "Lagos",
-    "price": "$250 - $1400",
+    "location": "Abakpa, Kaduna",
+    "price": "₦100,000 - ₦150,000 (per event)",
     "image": "images/traddancers.jpg",
-    "contact": "mailto:eventstars@example.com"
+    "contact": "traddancers@example.com"
   },
   
   {
     "name": "Glamour Makeup Studio",
     "category": "makeup",
-    "location": "Lagos",
-    "price": "$100 - $500",
+    "location": "Ungwan Rimi, Kaduna",
+    "price": "₦30,000(casual)-₦150,000(bridal)",
     "image": "images/glamourmakeup.webp",
-    "contact": "mailto:glamourmakeup@example.com"
+    "contact": "glamourmakeup@example.com"
   },
   {
     "name": "Beauty Touch",
     "category": "makeup",
-    "location": "Abuja",
-    "price": "$120 - $600",
+    "location": "Mando, Kaduna",
+    "price": "₦20,000(casual)-₦70,000 (bridal)",
     "image": "images/beautytouch.jpg",
-    "contact": "mailto:beautytouch@example.com"
+    "contact": "beautytouch@example.com"
   },
   {
     "name": "Makeover Magic",
     "category": "makeup",
-    "location": "Port Harcourt",
-    "price": "$90 - $550",
+    "location": "Barnawa, Kaduna",
+    "price": "₦100,000(casual)-₦350,000 (bridal)",
     "image": "images/makeovermagic.webp",
-    "contact": "mailto:makeovermagic@example.com"
+    "contact": "makeovermagic@example.com"
   },
   {
     "name": "Elegant Faces",
     "category": "makeup",
-    "location": "Lagos",
-    "price": "$100 - $500",
+    "location": "Kawo, Kaduna",
+    "price": "₦30,000(casual)-₦100,000 (bridal)",
     "image": "images/elegantfaces.jpg",
-    "contact": "mailto:elegantfaces@example.com"
+    "contact": "elegantfaces@example.com"
   },
   {
     "name": "Beauty Bliss",
     "category": "makeup",
-    "location": "Abuja",
-    "price": "$110 - $600",
+    "location": "Millenium City, Kaduna",
+    "price": "₦90,000(casual)-₦200,000 (bridal)",
     "image": "images/beautybliss.jpg",
-    "contact": "mailto:beautybliss@example.com"
+    "contact": "beautybliss@example.com"
   },
   {
     "name": "Flawless Artistry",
     "category": "makeup",
-    "location": "Lagos",
-    "price": "$95 - $550",
+    "location": "Kawo, Kaduna",
+    "price": "₦40,000(casual)-₦180,000 (bridal)",
     "image": "images/flawlessartistry.jpg",
-    "contact": "mailto:flawlessartistry@example.com"
+    "contact": "flawlessartistry@example.com"
   }
 ]

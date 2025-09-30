@@ -293,10 +293,12 @@ a{
 }
 .started-box{
   padding: 20px 40px;
-  background-color: rgba(171, 48, 85,0.3);
+  background-color: rgba(171, 48, 85,0.15);
   border-radius: 10px;
   max-width: 480px;
+  position: relative;
 }
+
 .started-box h3{
   font-size: 25px;
 }
