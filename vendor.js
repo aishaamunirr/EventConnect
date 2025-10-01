@@ -85,11 +85,11 @@ const currentUser = JSON.parse(localStorage.getItem("currentUser"));
         modal.style.display = 'block';
     }
 
-    // Delete service
+
     window.deleteService = function(index) {
         if(confirm("Are you sure you want to delete this service?")) {
             vendorServices.splice(index, 1);
-            localStorage.setItem("vendorServices", JSON.stringify(vendorServices)); // 🔑 Save changes
+            localStorage.setItem("vendorServices", JSON.stringify(vendorServices)); 
             renderServices();
     }
 }

@@ -105,7 +105,6 @@ if (signupForm) {
   });
 }
 
-// Modal Code
 const contactModal = document.getElementById('contactModal');
 const bookingModal = document.getElementById('bookingModal');
 const closeBtns = document.querySelectorAll('.close-modal');

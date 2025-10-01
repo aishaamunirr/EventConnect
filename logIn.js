@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     const users = JSON.parse(localStorage.getItem("users")) || [];
-    const hashedInputPassword = btoa(password); // Basic base64 encoding
+    const hashedInputPassword = btoa(password); 
 
 
     const foundUser = users.find(
